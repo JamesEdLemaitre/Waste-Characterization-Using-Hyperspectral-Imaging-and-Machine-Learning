@@ -1,1 +1,3 @@
-# Waste-Characterization-Using-Hyperspectral-Imaging-and-Machine-Learning
+# Confidential Project
+
+The source code and documentation are not publicly available due to confidentiality restrictions.
